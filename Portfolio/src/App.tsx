@@ -5,6 +5,7 @@ function App() {
 		<main>
 			<div className="p-home">
 				<div className="left-side"></div>
+				<div className="line"></div>
 				<div className="right-side">
 					<h1 className="title">Milan Mattheeuws</h1>
 					<h2 className="subtitle">Student Howest Kortrijk</h2>
