@@ -67,7 +67,7 @@
 				font-family: Nunito;
 				font-weight: bold;
 
-				:hover {
+				&:hover {
 					background-color: var(--global-color-hoover);
 				}
 			}
@@ -96,7 +96,14 @@
 		top: 10%;
 		left: 17%;
 		border-radius: 25px;
-		box-shadow: 1rem 1rem 3rem var(--global-color-shadow);
-		border: none;
+
+		.image {
+			width: auto;
+			height: 100%;
+			border-radius: 25px;
+
+			box-shadow: 0.8rem 0.8rem 5rem var(--global-color-shadow);
+			border: none;
+		}
 	}
 }

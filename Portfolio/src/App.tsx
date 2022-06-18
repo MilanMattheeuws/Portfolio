@@ -24,7 +24,9 @@ function App() {
 						</button>
 					</div>
 				</div>
-				<div className="picture"></div>
+				<div className="picture">
+					<img className="image" src="https://c8.alamy.com/comp/S1NNHD/lego-man-S1NNHD.jpg"></img>
+				</div>
 				<footer></footer>
 			</div>
 		</main>
