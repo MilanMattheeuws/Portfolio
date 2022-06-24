@@ -10,7 +10,7 @@ function App() {
 					<h1 className="title">Milan Mattheeuws</h1>
 					<h2 className="subtitle">Student Howest Kortrijk</h2>
 					<p className="text">
-						Hello there. I am Milan Mattheeuws, a student in
+						Hello there. I am Milan Mattheeuws, a student
 						<br />
 						MCT next web development in Kortrijk. I mainly
 						<br />
@@ -26,9 +26,11 @@ function App() {
 					</div>
 				</div>
 				<div className="picture">
-					<img className="image" src="https://live.staticflickr.com/7530/15659842583_4e95544c90_b.jpg"></img>
+					<img className="image" src="https://pikadev.fi/assets/code.svg"></img>
 				</div>
-				<footer></footer>
+				<footer>
+					<p></p>
+				</footer>
 			</div>
 		</main>
 	);
